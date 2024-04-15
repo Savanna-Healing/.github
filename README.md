@@ -1,2 +1,2 @@
-# .github
-Savanna Healing special .github repository
+# Savanna Healing
+**Holistic Coach**
